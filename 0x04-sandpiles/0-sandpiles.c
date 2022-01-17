@@ -42,7 +42,7 @@ void sum(int src[3][3], int dest[3][3])
   * @arr: matrix
   * Return: 0
   */
-int tst(int arr[3][3])
+int test(int arr[3][3])
 {
 	int x, y;
 
